@@ -12,7 +12,7 @@ from academic_record import AcademicRecord
 from fastapi import FastAPI
 import pandas as pd
 
-# import uvicorn
+import uvicorn
 
 # Creating the app object from FastAPI class
 app = FastAPI()
@@ -41,9 +41,9 @@ def predict_placement(data: AcademicRecord):
     return {"Prediction": prediction[0]}
 
 
-# # Run the API with uvicorn
-# if __name__ == "__main__":
-#     """
-#     Main function
-#     """
-#     uvicorn.run(app, host="127.0.0.1", port=8000)
+# Run the API with uvicorn
+if __name__ == "__main__":
+     """
+     Main function
+     """
+     uvicorn.run(app, host="127.0.0.1", port=8000)
