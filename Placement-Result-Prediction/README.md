@@ -28,3 +28,9 @@ specialisation - object<br>
 mba_p - float64<br>
 status - object<br>
 salary -float64<br>
+
+#### Folders
+
+* /app/ - Python files for the deployment of the trained machine learning model as an API using FastAPI( )
+* /model/ - Jupyter Notebook for training the model and the trained model in pickle format
+* /Data/ - Data used for training the model in csv format
