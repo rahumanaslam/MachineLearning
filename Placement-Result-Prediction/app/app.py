@@ -8,11 +8,10 @@ __file__ = "app.py"
 
 # Importing the required packages
 import pickle
+import os
 from academic_record import AcademicRecord
 from fastapi import FastAPI
 import pandas as pd
-import os
-
 import uvicorn
 
 # Creating the app object from FastAPI class
