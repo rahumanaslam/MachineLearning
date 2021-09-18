@@ -47,4 +47,7 @@ Now open the browser and open http://localhost:8000/docs or http:/127.0.0.1:8000
 
 It will display the Swagger UI Homepage as below: 
 
+![Screenshot (37)](https://user-images.githubusercontent.com/22251571/133881964-04760d0a-4056-4b0a-89c1-66f2970e0f12.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/22251571/133881970-c8d868ab-d1ff-410e-b2f9-d93ac5d8ac2e.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/22251571/133881971-174b9a7b-c8e5-4923-a015-5dc6e5da1389.png)
 
